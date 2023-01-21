@@ -1,6 +1,6 @@
-package logic.service;
+package com.fastcampus.springpractice.logic.service;
 
-import logic.Sort;
+import com.fastcampus.springpractice.logic.Sort;
 
 import java.util.List;
 
